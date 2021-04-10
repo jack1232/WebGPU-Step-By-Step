@@ -47,14 +47,14 @@ The following steps shows how to run the sample apps:
 * Click on the link for the sample app that you are interested.
 * Clone or download it to your local machine.
 * Install dependencies with the command: **npm install**.
-* Compile and bundle the app with the command: **npm run dev**,**npm run prod**, or **npm run watch**.
+* Compile and bundle the app with the command: **npm run dev**, **npm run prod**, or **npm run watch**.
 * Run the live-server from VS-Code and then navigate to **http://localhost:5500** or **http://127.0.0.1:5500** to view the app.
 
 ## License
 
-The MIT License (MIT)
+The MIT License (MIT).
 
-Copyright (c) 2021 Jack Xu
+Copyright (c) 2021 Jack Xu.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
