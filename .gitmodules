@@ -1,0 +1,6 @@
+[submodule "webgpu01"]
+	path = webgpu01
+	url = https://github.com/jack1232/webgpu01
+[submodule "webgpu02"]
+	path = webgpu02
+	url = https://github.com/jack1232/webgpu02
