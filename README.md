@@ -34,6 +34,8 @@ Here are some sample objects created using the WebGPU API, which I will discusse
 
 ### 3D Surface Plots for Complex Functions created using WebGPU:
 ![complex-surface](assets/complex-surface.png) 
+
+### Another Surface Plot for Complex Function:
 ![complex-surface1](assets/complex-surface1.png) 
 
 ## Building
