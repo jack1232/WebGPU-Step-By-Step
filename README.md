@@ -16,7 +16,7 @@ By the end of this video series, you will have the skill you need to build your 
 
 ## Youtube Video Links:
 
-* 001. Set up Development Environment https://youtu.be/-hXtt4ioH5A  
+001. Set up Development Environment https://youtu.be/-hXtt4ioH5A  
 
 ## Sample Objects 
 Here are some sample objects created using the WebGPU API, which I will discussed in my video series.
