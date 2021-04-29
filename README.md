@@ -12,7 +12,11 @@ you will learn how to create advanced 3D WebGPU objects, including various 3D wi
 colormaps and textures, as well as 3D surface plots and fractal graphics described by complex functions. In addition, you will explore new 
 WebGPU features, such as compute shader and storage buffer, and how to use them to simulate large particle systems.
 
-By the end of this video series, you will have the skill you need to build your own GPU-accelerated graphics and computing on the web with the WebGPU API.   
+By the end of this video series, you will have the skill you need to build your own GPU-accelerated graphics and computing on the web with the WebGPU API.  
+
+## Youtube Video Links:
+
+* 001. Set up Development Environment https://youtu.be/-hXtt4ioH5A  
 
 ## Sample Objects 
 Here are some sample objects created using the WebGPU API, which I will discussed in my video series.
