@@ -46,6 +46,7 @@ This repository organizes all samples with the git submodules. The sample apps a
 
 The following steps shows how to run the sample apps:
 
+* Carefully watch the first video ( **https://youtu.be/-hXtt4ioH5A** ) to set up correct development environment. 
 * Click on the link for the sample app that you are interested.
 * Clone or download it to your local machine.
 * Install dependencies with the command: **npm install**.
