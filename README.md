@@ -17,6 +17,7 @@ Most examples used in this video series are taken from my recently published boo
 1. Set up Development Environment: https://youtu.be/-hXtt4ioH5A  
 2. Create First Triangle: https://youtu.be/QWh968pmsbg
 3. Create Triangle with different Vertex Colors: https://youtu.be/h6Dqos4mfVY
+4. Create a Triangle with GLSL Shaders: https://youtu.be/vmqx7rJk4uU
 
 ## Sample Objects 
 Here are some sample objects created using the WebGPU API, which I will discussed in my video series.
