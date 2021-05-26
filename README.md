@@ -18,6 +18,7 @@ Most examples used in this video series are taken from my recently published boo
 2. Create First Triangle: https://youtu.be/QWh968pmsbg
 3. Create Triangle with different Vertex Colors: https://youtu.be/h6Dqos4mfVY
 4. Create a Triangle with GLSL Shaders: https://youtu.be/vmqx7rJk4uU
+5. Create Point and Line Primitives: https://youtu.be/q8_uD9EMVRg
 
 ## Sample Objects 
 Here are some sample objects created using the WebGPU API, which I will discussed in my video series.
