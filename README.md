@@ -57,6 +57,12 @@ The following steps shows how to run the sample apps:
 * Compile and bundle the app with the command: **npm run dev**, **npm run prod**, or **npm run watch**.
 * Run the live-server from VS-Code and then navigate to **http://localhost:5500** or **http://127.0.0.1:5500** to view the app.
 
+## Code Updates
+Recently, Chrome Canary made some changes to the WebGPU API: it no longer supports old pipeline format anymore. We have used the old 
+pipeline format in the code examples in our WebGPU vidoes series (2) to (4). Now, I have updated them to the new pipeline by replaceng 
+vertexStage and fragmentStage with vertex and fragment respectively. We also remove the colorState and add the target attribute to the 
+fragment section.   
+
 ## License
 
 The MIT License (MIT).
