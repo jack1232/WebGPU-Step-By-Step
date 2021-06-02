@@ -60,7 +60,7 @@ The following steps shows how to run the sample apps:
 ## Code Updates
 Recently, Chrome Canary made two important changes to the WebGPU API: 
 
-* it no longer supports old pipeline format anymore.
+* It no longer supports the old pipeline format anymore.
 * It does not support the old WGSL shader code.
 
 We have used the old pipeline format in the code examples in our WebGPU vidoes series (2) to (4). Now, I have updated them to the new pipeline 
