@@ -20,6 +20,7 @@ Most examples used in this video series are taken from my recently published boo
 4. Create a Triangle with GLSL Shaders: https://youtu.be/vmqx7rJk4uU
 5. Create Point and Line Primitives: https://youtu.be/q8_uD9EMVRg
 6. Create Triangle Primitives: https://youtu.be/1JMHg8BgWTY
+7. Create a colorful square with GPU Buffer: https://youtu.be/L4k5Glv0gSM
 
 ## Sample Objects 
 Here are some sample objects created using the WebGPU API, which I will discussed in my video series.
