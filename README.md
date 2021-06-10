@@ -14,6 +14,7 @@ Most examples used in this video series are taken from my recently published boo
 
 ## YouTube Video Links (will try to post a new video on every Thursday):
 
+0. How to update code samples: https://youtu.be/pfWVH2uaerw
 1. Set up Development Environment: https://youtu.be/-hXtt4ioH5A  
 2. Create First Triangle: https://youtu.be/QWh968pmsbg
 3. Create Triangle with different Vertex Colors: https://youtu.be/h6Dqos4mfVY
@@ -72,6 +73,8 @@ fragment section.
 For our WebGPU videos series (2) -(10) (except for (4) where the GLSL shader was used), we have used the old WGSL shader code. To run the 
 application, I have updated the WGSL shader code using the new Rust-like format. For comparison, I also included the older shader 
 method named ShadersOld.
+
+I have made a YouTube video that shows the detailed steps on how to update the code examples: https://youtu.be/pfWVH2uaerw
 
 
 
