@@ -23,6 +23,7 @@ Most examples used in this video series are taken from my recently published boo
 6. Create Triangle Primitives: https://youtu.be/1JMHg8BgWTY
 7. Create a Colorful Square with GPU Buffer: https://youtu.be/L4k5Glv0gSM
 8. Create a Colorful Square with a Single GPU Buffer: https://youtu.be/G5j5EMfHQR0
+9. Create a Colorful Square with an Index GPU Buffer: https://youtu.be/Y1zUZhA8vv8
 ## Sample Objects 
 Here are some sample objects created using the WebGPU API, which I will discussed in my video series.
 
@@ -61,6 +62,7 @@ The following steps shows how to run the sample apps:
 * Run the live-server from VS-Code and then navigate to **http://localhost:5500** or **http://127.0.0.1:5500** to view the app.
 
 ## Code Updates
+
 Recently, Chrome Canary made two important changes to the WebGPU API: 
 
 * It no longer supports the old pipeline format anymore.
@@ -75,6 +77,9 @@ application, I have updated the WGSL shader code using the new Rust-like format.
 method named ShadersOld.
 
 I have made a YouTube video that shows the detailed steps on how to update the code examples: https://youtu.be/pfWVH2uaerw
+
+The WebGPU API version 0.1.4 combines the swap chain and canvas context into a single interface. I created a new YouTube Video that shows how to update 
+the cod examples to reflect this change: https://youtu.be/yTkGXYlIjEw
 
 
 
