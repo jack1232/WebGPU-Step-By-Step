@@ -79,7 +79,7 @@ method named ShadersOld.
 I have made a YouTube video that shows the detailed steps on how to update the code examples: https://youtu.be/pfWVH2uaerw
 
 The WebGPU API version 0.1.4 combines the swap chain and canvas context into a single interface. I created a new YouTube Video that shows how to update 
-the cod examples to reflect this change: https://youtu.be/yTkGXYlIjEw
+the code examples to reflect this change: https://youtu.be/yTkGXYlIjEw
 
 
 
