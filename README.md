@@ -14,7 +14,8 @@ Most examples used in this video series are taken from my recently published boo
 
 ## YouTube Video Links (will try to post a new video on every Thursday):
 
-0. How to update code samples: https://youtu.be/pfWVH2uaerw
+### Video Series for WebGPU Step-by-Step:
+
 1. Set up Development Environment: https://youtu.be/-hXtt4ioH5A  
 2. Create First Triangle: https://youtu.be/QWh968pmsbg
 3. Create Triangle with different Vertex Colors: https://youtu.be/h6Dqos4mfVY
@@ -25,6 +26,14 @@ Most examples used in this video series are taken from my recently published boo
 8. Create a Colorful Square with a Single GPU Buffer: https://youtu.be/G5j5EMfHQR0
 9. Create a Colorful Square with an Index GPU Buffer: https://youtu.be/Y1zUZhA8vv8
 10. Create a 3D Cube with Distinct Face Colors: https://youtu.be/Ewy1QdFBLVc
+
+### Code Update
+
+1. Code update 1: https://youtu.be/pfWVH2uaerw
+2. Code Update 2: https://youtu.be/yTkGXYlIjEw
+3. Code Update 3: https://youtu.be/NJ-Dr0eeTaU
+ 
+
 ## Sample Objects 
 Here are some sample objects created using the WebGPU API, which I will discussed in my video series.
 
