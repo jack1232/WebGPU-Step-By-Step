@@ -71,33 +71,6 @@ The following steps shows how to run the sample apps:
 * Compile and bundle the app with the command: **npm run dev**, **npm run prod**, or **npm run watch**.
 * Run the live-server from VS-Code and then navigate to **http://localhost:5500** or **http://127.0.0.1:5500** to view the app.
 
-## Code Updates
-
-### Update 1 
-
-Recently, Chrome Canary made two important changes to the WebGPU API: 
-
-* It no longer supports the old pipeline format anymore.
-* It does not support the old WGSL shader code.
-
-We have used the old pipeline format in the code examples in our WebGPU vidoes series (2) to (4). Now, I have updated them to the new pipeline 
-by replaceng vertexStage and fragmentStage with vertex and fragment respectively. We also remove the colorState and add the target attribute to the 
-fragment section.   
-
-For our WebGPU videos series (2) -(10) (except for (4) where the GLSL shader was used), we have used the old WGSL shader code. To run the 
-application, I have updated the WGSL shader code using the new Rust-like format. For comparison, I also included the older shader 
-method named ShadersOld.
-
-I have made a YouTube video that shows the detailed steps on how to update the code examples: https://youtu.be/pfWVH2uaerw
-
-### Update 2
-The WebGPU API version 0.1.4 combines the swap chain and canvas context into a single interface. I created a new YouTube Video that shows how to update 
-the code examples to reflect this change: https://youtu.be/yTkGXYlIjEw
-
-### Update 3
-Starting from June 28, 2021, Chrome Canary stops supporting the global variables in WGSL shader defined using the let keyword. I created a new YouTube Video that shows how to update the code examples to reflect this change: https://youtu.be/NJ-Dr0eeTaU
-
-
 ## License
 
 The MIT License (MIT).
