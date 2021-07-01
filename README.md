@@ -27,7 +27,7 @@ Most examples used in this video series are taken from my recently published boo
 9. Create a Colorful Square with an Index GPU Buffer: https://youtu.be/Y1zUZhA8vv8
 10. Create a 3D Cube with Distinct Face Colors: https://youtu.be/Ewy1QdFBLVc
 
-### Code Update
+### Code Update Videos
 
 1. Code update 1: https://youtu.be/pfWVH2uaerw
 2. Code Update 2: https://youtu.be/yTkGXYlIjEw
