@@ -24,6 +24,7 @@ Most examples used in this video series are taken from my recently published boo
 7. Create a Colorful Square with GPU Buffer: https://youtu.be/L4k5Glv0gSM
 8. Create a Colorful Square with a Single GPU Buffer: https://youtu.be/G5j5EMfHQR0
 9. Create a Colorful Square with an Index GPU Buffer: https://youtu.be/Y1zUZhA8vv8
+10. Create a 3D Cube with Distinct Face Colors: https://youtu.be/Ewy1QdFBLVc
 ## Sample Objects 
 Here are some sample objects created using the WebGPU API, which I will discussed in my video series.
 
@@ -63,6 +64,8 @@ The following steps shows how to run the sample apps:
 
 ## Code Updates
 
+### Update 1 
+
 Recently, Chrome Canary made two important changes to the WebGPU API: 
 
 * It no longer supports the old pipeline format anymore.
@@ -78,9 +81,12 @@ method named ShadersOld.
 
 I have made a YouTube video that shows the detailed steps on how to update the code examples: https://youtu.be/pfWVH2uaerw
 
+### Update 2
 The WebGPU API version 0.1.4 combines the swap chain and canvas context into a single interface. I created a new YouTube Video that shows how to update 
 the code examples to reflect this change: https://youtu.be/yTkGXYlIjEw
 
+### Update 3
+Starting from June 28, 2021, Chrome Canary stops supporting the global variables in WGSL shader defined using the let keyword. I created a new YouTube Video that shows how to update the code examples to reflect this change: https://youtu.be/NJ-Dr0eeTaU
 
 
 ## License
