@@ -12,7 +12,7 @@ By the end of this video series, you will have the skill you need to build your 
 
 Most examples used in this video series are taken from my recently published book "Practical WebGPU Graphics". Please see details at https://drxudotnet.com or https://book.gincker.com. 
 
-## YouTube Video Links (will try to post a new video on every Thursday):
+## YouTube Video Links (upload a new video on every Thursday):
 
 ### Video Series for WebGPU Step-by-Step:
 
