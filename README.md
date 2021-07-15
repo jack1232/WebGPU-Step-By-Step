@@ -27,6 +27,7 @@ Most examples used in this video series are taken from my recently published boo
 9. Create a Colorful Square with an Index GPU Buffer: https://youtu.be/Y1zUZhA8vv8
 10. Create a 3D Cube with Distinct Face Colors: https://youtu.be/Ewy1QdFBLVc
 11. 3D Cube Animation and Camera Control: https://youtu.be/Tbor4MHGN_I
+12. 3D Cube with Distinct Vertex Colors: https://youtu.be/cU0gzGgjDS4 
 
 ### Code Update Videos
 
