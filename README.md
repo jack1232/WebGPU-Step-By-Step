@@ -29,6 +29,7 @@ Most examples used in this video series are taken from my recently published boo
 11. 3D Cube Animation and Camera Control: https://youtu.be/Tbor4MHGN_I
 12. 3D Cube with Distinct Vertex Colors: https://youtu.be/cU0gzGgjDS4 
 13. Create a 3D Sphere Wireframe: https://youtu.be/9E_tSiybdMw
+14. Create a 3D Cylinder Wireframe: https://youtu.be/hhTcmMfyGQ4
 
 ### Code Update Videos
 
