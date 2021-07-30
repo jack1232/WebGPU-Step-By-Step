@@ -37,31 +37,6 @@ Most examples used in this video series are taken from my recently published boo
 2. Code Update 2: https://youtu.be/yTkGXYlIjEw
 3. Code Update 3: https://youtu.be/NJ-Dr0eeTaU
  
-
-## Sample Objects 
-Here are some sample objects created using the WebGPU API, which I will discussed in my video series.
-
-### Klein Bottle created using WebGPU:
-![klein-bottle](assets/klein-bottle.png)
-
-### Wellenkugel Surface created using WebGPU:  
-![wellenkugel](assets/wellenkugel.png) 
-
-### 3D Sinc Surface created using WebGPU:
-![sinc](assets/sinc.png) 
-
-### Multiple-Textures created using WebGPU:
-![textures](assets/textures.png) 
-
-### Multiple Objects on a Scene created using WebGPU:
-![nultiple-objects](assets/multiple-objects.png) 
-
-### 3D Surface Plots for Complex Functions created using WebGPU:
-![complex-surface](assets/complex-surface.png) 
-
-### Another Surface Plot for Complex Function:
-![complex-surface1](assets/complex-surface1.png) 
-
 ## Building
 
 This repository organizes all samples with the git submodules. The sample apps are built with TypeScript and bundled using WebPack. Building the apps requires an installation of Node.js.
@@ -74,6 +49,39 @@ The following steps shows how to run the sample apps:
 * Install dependencies with the command: **npm install**.
 * Compile and bundle the app with the command: **npm run dev**, **npm run prod**, or **npm run watch**.
 * Run the live-server from VS-Code and then navigate to **http://localhost:5500** or **http://127.0.0.1:5500** to view the app.
+
+## Sample Objects 
+Here are some sample objects created using the WebGPU API, which I will discussed in my video series.
+
+### Klein Bottle Created Using WebGPU:
+![klein-bottle](assets/klein-bottle.png)
+
+### Wellenkugel Surface Created Using WebGPU:  
+![wellenkugel](assets/wellenkugel.png) 
+
+### Snail Shell Created Using WebGPU:
+![snail-shell](assets/snail-shell.png)
+
+### Sievert-Enneper Surface Created Using WebGPU:
+![sievert-enneper](assets/sievert-enneper.png)
+
+### Breather Surface Created Using WebGPU:
+![breather](assets/breather.png)
+
+### 3D Sinc Surface created using WebGPU:
+![sinc](assets/sinc.png) 
+
+### Multiple-Textures Created Using WebGPU:
+![textures](assets/textures.png) 
+
+### Multiple Objects on a Scene created using WebGPU:
+![nultiple-objects](assets/multiple-objects.png) 
+
+### 3D Surface Plots for Complex Functions created using WebGPU:
+![complex-surface](assets/complex-surface.png) 
+
+<!--### Another Surface Plot for Complex Function:
+![complex-surface1](assets/complex-surface1.png) -->
 
 ## License
 
