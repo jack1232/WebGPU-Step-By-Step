@@ -14,6 +14,8 @@ Most examples used in this video series are taken from my recently published boo
 
 ## YouTube Video Links (upload a new video on every Thursday):
 
+Please visit my YouTube channel: [Practical Programming with Dr. Xu](https://www.youtube.com/channel/UCg14XfqXim0vpgabU3T7tRg)
+
 ### Video Series for WebGPU Step-by-Step:
 
 1. Set up Development Environment: https://youtu.be/-hXtt4ioH5A  
