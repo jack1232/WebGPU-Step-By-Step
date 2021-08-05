@@ -32,6 +32,7 @@ Please visit my YouTube channel: [Practical Programming with Dr. Xu](https://www
 12. 3D Cube with Distinct Vertex Colors: https://youtu.be/cU0gzGgjDS4 
 13. Create a 3D Sphere Wireframe: https://youtu.be/9E_tSiybdMw
 14. Create a 3D Cylinder Wireframe: https://youtu.be/hhTcmMfyGQ4
+15. Create a 3D Cone Wireframe: https://youtu.be/RyowA2ytRYo
 
 ### Code Update Videos
 
