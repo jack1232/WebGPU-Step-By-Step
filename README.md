@@ -36,7 +36,7 @@ Please visit my YouTube channel: [Practical Programming with Dr. Xu](https://www
 16. Create a 3D Torus Wireframe: https://youtu.be/njKt4tY0QjA
 ### Code Update Videos
 
-1. Code update 1: https://youtu.be/pfWVH2uaerw
+1. Code Update 1: https://youtu.be/pfWVH2uaerw
 2. Code Update 2: https://youtu.be/yTkGXYlIjEw
 3. Code Update 3: https://youtu.be/NJ-Dr0eeTaU
  
