@@ -33,7 +33,7 @@ Please visit my YouTube channel: [Practical Programming with Dr. Xu](https://www
 13. Create a 3D Sphere Wireframe: https://youtu.be/9E_tSiybdMw
 14. Create a 3D Cylinder Wireframe: https://youtu.be/hhTcmMfyGQ4
 15. Create a 3D Cone Wireframe: https://youtu.be/RyowA2ytRYo
-
+16. Create a 3D Torus Wireframe: https://youtu.be/njKt4tY0QjA
 ### Code Update Videos
 
 1. Code update 1: https://youtu.be/pfWVH2uaerw
