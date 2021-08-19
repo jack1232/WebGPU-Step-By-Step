@@ -34,6 +34,7 @@ Please visit my YouTube channel: [Practical Programming with Dr. Xu](https://www
 14. Create a 3D Cylinder Wireframe: https://youtu.be/hhTcmMfyGQ4
 15. Create a 3D Cone Wireframe: https://youtu.be/RyowA2ytRYo
 16. Create a 3D Torus Wireframe: https://youtu.be/njKt4tY0QjA
+17. Implement Light Model: https://youtu.be/KCqqpXQiWcY 
 ### Code Update Videos
 
 1. Code Update 1: https://youtu.be/pfWVH2uaerw
