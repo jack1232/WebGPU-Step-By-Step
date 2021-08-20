@@ -38,7 +38,7 @@ Please visit my YouTube channel: [Practical Programming with Dr. Xu](https://www
 
 
 ### Live Demostration
-[Live Demos](https://jack1232.github.io/webgpu00/index.html) are produced by running the sample projects used in the WebGPU step-by-step video series.
+[Live Demos](https://jack1232.github.io/webgpu00/) are produced by running the sample projects used in the WebGPU step-by-step video series.
 These samples run in Chrome Canary behind the flag --enable-unsafe-webgpu.
 
 ### Code Update Videos
