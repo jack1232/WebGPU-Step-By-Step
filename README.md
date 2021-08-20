@@ -35,8 +35,13 @@ Please visit my YouTube channel: [Practical Programming with Dr. Xu](https://www
 15. Create a 3D Cone Wireframe: https://youtu.be/RyowA2ytRYo
 16. Create a 3D Torus Wireframe: https://youtu.be/njKt4tY0QjA
 17. Implement Light Model: https://youtu.be/KCqqpXQiWcY 
-### Code Update Videos
 
+
+### Live Demostration
+[Live Demos](https://jack1232.github.io/webgpu00/index.html) are produced by running the sample projects used in the WebGPU step-by-step video series.
+These samples run in Chrome Canary behind the flag --enable-unsafe-webgpu.
+
+### Code Update Videos
 1. Code Update 1: https://youtu.be/pfWVH2uaerw
 2. Code Update 2: https://youtu.be/yTkGXYlIjEw
 3. Code Update 3: https://youtu.be/NJ-Dr0eeTaU
