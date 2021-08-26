@@ -35,6 +35,7 @@ Please visit my YouTube channel: [Practical Programming with Dr. Xu](https://www
 15. Create a 3D Cone Wireframe: https://youtu.be/RyowA2ytRYo
 16. Create a 3D Torus Wireframe: https://youtu.be/njKt4tY0QjA
 17. Implement Light Model: https://youtu.be/KCqqpXQiWcY 
+18. Create a 3D Cube with Lighting Effect: https://youtu.be/jRNSVSJAadc
 
 
 ### Live Demostration
