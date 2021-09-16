@@ -38,8 +38,7 @@ Please visit my YouTube channel: [Practical Programming with Dr. Xu](https://www
 18. Create a 3D Cube with Lighting Effect: https://youtu.be/jRNSVSJAadc
 19. Create a 3D Sphere with Lighting Effect: https://youtu.be/SjBJKHhNJpM
 20. Create a 3D Cylinder with Lighting Effect: https://youtu.be/1hN7ST3F9Sg 
-
-
+21. Create a 3D Cone with Lighting Effect: https://youtu.be/0jP3srX5baw
 ### Live Demonstration
 [Live Demos](https://jack1232.github.io/webgpu00/) are produced by running the sample projects used in the WebGPU step-by-step video series.
 These samples run in Chrome Canary behind the flag --enable-unsafe-webgpu.
