@@ -41,6 +41,7 @@ Please visit my YouTube channel: [Practical Programming with Dr. Xu](https://www
 21. Create a 3D Cone with Lighting Effect: https://youtu.be/0jP3srX5baw
 22. Create a 3D Torus with Lighting Effect: https://youtu.be/u3CVA5rcu9I
 23. Create Colormap Model: https://youtu.be/TXttBcCs63I
+24. Create 3D Simple Surfaces: https://youtu.be/goWAQGyaAsc 
 ### Live Demonstration
 [Live Demos](https://jack1232.github.io/webgpu00/) are produced by running the sample projects used in the WebGPU step-by-step video series.
 These samples run in Chrome Canary behind the flag --enable-unsafe-webgpu.
