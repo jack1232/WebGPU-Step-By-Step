@@ -45,6 +45,7 @@ Please visit my YouTube channel: [Practical Programming with Dr. Xu](https://www
 25. Create a 3D Sinc Surface: https://youtu.be/7T6YnXASLHc
 26. Create a 3D Peaks Surface: https://youtu.be/nE_vhPSe15I
 27. Create 3D Parametric Surfaces: https://youtu.be/5ZtBKHDimec
+28. Create a 3D Klein Bottle: https://youtu.be/hi63TBxyPU8
 ### Live Demonstration
 [Live Demos](https://jack1232.github.io/webgpu00/) are produced by running the sample projects used in the WebGPU step-by-step video series.
 These samples run in Chrome Canary behind the flag --enable-unsafe-webgpu.
