@@ -50,7 +50,8 @@ Please visit my YouTube channel: [Practical Programming with Dr. Xu](https://www
 30. Create a 3D Seashell Surface: https://youtu.be/IuxNYrMK6rU 
 31. Create a 3D Sievert-Enneper Surface: https://youtu.be/tKYD8y6FJB4
 32. Create a 3D Breather Surface: https://youtu.be/YecHbHT403c
-33. Texture Mapping: https://youtu.be/s5BRvGWiIOY
+33. Texture Mapping: https://youtu.be/s5BRvGWiIOY 
+34. Texture Mapping for 3D Cube: https://youtu.be/dGVd5SQluR0
 ### Live Demonstration
 [Live Demos](https://jack1232.github.io/webgpu00/) are produced by running the sample projects used in the WebGPU step-by-step video series.
 These samples run in Chrome Canary behind the flag --enable-unsafe-webgpu.
