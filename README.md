@@ -54,6 +54,7 @@ Please visit my YouTube channel: [Practical Programming with Dr. Xu](https://www
 34. Texture Mapping for 3D Cube: https://youtu.be/dGVd5SQluR0
 35. Texture mapping for 3D Sphere: https://youtu.be/aK7gQEIhJNI
 36. Texture Mapping for 3D Cylinder: https://youtu.be/nZ9dQSgNWek 
+37. Texture Mapping for 3D Sinc Surface: https://youtu.be/JAPaIofg6lM 
 ### Live Demonstration
 [Live Demos](https://jack1232.github.io/webgpu00/) are produced by running the sample projects used in the WebGPU step-by-step video series.
 These samples run in Chrome Canary behind the flag --enable-unsafe-webgpu.
