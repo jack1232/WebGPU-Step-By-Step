@@ -64,6 +64,7 @@ These samples run in Chrome Canary behind the flag --enable-unsafe-webgpu.
 2. Code Update 2: https://youtu.be/yTkGXYlIjEw
 3. Code Update 3: https://youtu.be/NJ-Dr0eeTaU
 4. Code Update 4: https://youtu.be/1Ydti6_-aB4
+5. Code Update 5: https://youtu.be/Joeueh8HVf0
 ## Building
 
 This repository organizes all samples with the git submodules. The sample apps are built with TypeScript and bundled using WebPack. Building the apps requires an installation of Node.js.
