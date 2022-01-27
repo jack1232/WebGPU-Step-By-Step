@@ -2,7 +2,7 @@
 
 WebGPU is the next-generation graphics API and future web standard for graphics and compute, aiming to provide modern 3D graphics and 
 computation capabilities with the GPU acceleration. To help you be familiar with this new graphics API and able to build your WebGPU 
-applications, I will create a YouTube video series about WebGPU programming and discuss an easy-to-follow WebGPU application in each video episode. 
+applications, I will create a YouTube video series about WebGPU programming and present an easy-to-follow WebGPU application in each video episode. 
 This repository contains all the code examples used in this video series.
 
 This YouTube video series uses the real-world sample apps to explain the WebGPU basics, shader program, GPU buffer, and rendering pipeline. From this video series, you will learn how to create primitives and simple objects in WebGPU. As you gradually progress through the video series, you will get to grips with advanced WebGPU topics, including 3D transformation, lighting calculation, colormaps, and textures. At the same time, you will learn how to create advanced 3D WebGPU objects, including various 3D wireframes, 3D shapes, simple and parametric 3D surfaces with 
