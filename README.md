@@ -93,13 +93,13 @@ The following steps shows how to run the sample apps:
 Here are some sample objects created using the WebGPU API, which I will discussed in my video series.
 
 ### Klein Bottle and Wellenkugel Surface:
-![klein-bottle](assets/klein-bottle.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![wellenkugel](assets/wellenkugel.png) 
+![klein-bottle](assets/klein-bottle.png) &nbsp;&nbsp;&nbsp; ![wellenkugel](assets/wellenkugel.png) 
 
 ### Snail Shell and Sievert-Enneper Surface:
-![snail-shell](assets/snail-shell.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![sievert-enneper](assets/sievert-enneper.png)
+![snail-shell](assets/snail-shell.png) &nbsp;&nbsp;&nbsp; ![sievert-enneper](assets/sievert-enneper.png)
 
 ### Breather Surface and 3D Sinc Surface:
-![breather](assets/breather.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![sinc](assets/sinc.png) 
+![breather](assets/breather.png) &nbsp;&nbsp;&nbsp; ![sinc](assets/sinc.png) 
 
 ### Multiple-Textures Created Using WebGPU:
 ![textures](assets/textures.png) 
