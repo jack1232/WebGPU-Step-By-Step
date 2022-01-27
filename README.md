@@ -15,7 +15,7 @@ Most examples used in this video series are taken from my recently published boo
 
 I also published a new book **"Practical GPU Graphics with wgpu and Rust"**. Rust wgpu is based on the WebGPU standard. It is a cross-platform, safe, Rust graphics API, and it runs natively on Vulkan, Metal, D3D12, D3D11, and OpenGLES, as well as on the web via WebAssembly.
 
-[![WebGPU Book](assets/webgpu01.png)](https://drxudotnet.com) [![wgpu Rust Book](assets/wgpu01.png)](https://drxudotnet.com)
+[![WebGPU Book](assets/webgpu01.png)](https://drxudotnet.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![wgpu Rust Book](assets/wgpu01.png)](https://drxudotnet.com)
 
 Please see details about these books at https://drxudotnet.com. 
 
