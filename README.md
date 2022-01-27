@@ -57,6 +57,7 @@ Please visit my YouTube channel: [Practical Programming with Dr. Xu](https://www
 37. Texture Mapping for 3D Sinc Surface: https://youtu.be/JAPaIofg6lM 
 38. Texture Mapping for 3D Peaks Surface: https://youtu.be/ec5LM6oWrZM
 39. Texture Mapping for 3D Klein Bottle: https://youtu.be/x1uJZRnLFgI
+40. Texture Mapping for 3D Wellenkugel Surface: https://youtu.be/HTN_IGN3XIM
 
 ### Live Demonstration
 [Live Demos](https://jack1232.github.io/webgpu00/) are produced by running the sample projects used in the WebGPU step-by-step video series.
