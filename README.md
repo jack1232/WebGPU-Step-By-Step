@@ -11,7 +11,7 @@ colormaps and textures, as well as 3D surface plots and 2D and 3D fractal graphi
 By the end of this video series, you will have the solid skill you need to build your own GPU-accelerated graphics and computing on the web with the WebGPU API. 
 
 ## Books on WebGPU and wgpu in Rust
-Most examples used in this video series are taken from my recently published book **"Practical WebGPU Graphics"**. 
+Most of the examples used in this video series are taken from my recently published book **"Practical WebGPU Graphics"**. 
 
 I also published a new book **"Practical GPU Graphics with wgpu and Rust"**. Rust wgpu is based on the WebGPU standard. It is a cross-platform, safe, Rust graphics API, and it runs natively on Vulkan, Metal, D3D12, D3D11, and OpenGLES, as well as on the web via WebAssembly.
 
