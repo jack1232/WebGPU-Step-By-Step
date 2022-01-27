@@ -3,14 +3,21 @@
 WebGPU is the next-generation graphics API and future web standard for graphics and compute, aiming to provide modern 3D graphics and 
 computation capabilities with the GPU acceleration. To help you be familiar with this new graphics API and able to build your WebGPU 
 applications, I will create a YouTube video series about WebGPU programming and discuss an easy-to-follow WebGPU application in each video episode. 
-This repository contains all the code examples used in the YouTube video series.
+This repository contains all the code examples used in this video series.
 
-The YouTube video series uses the real-world sample apps to explain the WebGPU basics, shader program, GPU buffer, and rendering pipeline. From this video series, you will learn how to create primitives and simple objects in WebGPU. As you gradually progress through the video series, you will get to grips with advanced WebGPU topics, including 3D transformation, lighting calculation, colormaps, and textures. At the same time, you will learn how to create advanced 3D WebGPU objects, including various 3D wireframes, 3D shapes, simple and parametric 3D surfaces with 
-colormaps and textures, as well as 3D surface plots and fractal graphics described by complex functions. In addition, you will explore new WebGPU features, such as compute shader and storage buffer, and how to use them to simulate large particle systems.
+This YouTube video series uses the real-world sample apps to explain the WebGPU basics, shader program, GPU buffer, and rendering pipeline. From this video series, you will learn how to create primitives and simple objects in WebGPU. As you gradually progress through the video series, you will get to grips with advanced WebGPU topics, including 3D transformation, lighting calculation, colormaps, and textures. At the same time, you will learn how to create advanced 3D WebGPU objects, including various 3D wireframes, 3D shapes, simple and parametric 3D surfaces with 
+colormaps and textures, as well as 3D surface plots and 2D and 3D fractal graphics described by complex functions. In addition, you will explore new WebGPU features, such as compute shader and storage buffer, and how to use them to simulate large particle systems.
 
-By the end of this video series, you will have the skill you need to build your own GPU-accelerated graphics and computing on the web with the WebGPU API. 
+By the end of this video series, you will have the solid skill you need to build your own GPU-accelerated graphics and computing on the web with the WebGPU API. 
 
-Most examples used in this video series are taken from my recently published book "Practical WebGPU Graphics". Please see details at https://drxudotnet.com or https://book.gincker.com. 
+## Books on WebGPU and wgpu in Rust
+Most examples used in this video series are taken from my recently published book "Practical WebGPU Graphics". 
+
+I also published a new book on wgpu in Rust. wgpu is based on the WebGPU standard. It is a cross-platform, safe, Rust graphics API, and it runs natively on Vulkan, Metal, D3D12, D3D11, and OpenGLES; and on top of WebGPU on wasm.
+
+[![WebGPU Book](assets/webgpu01.png =x300)](https://drxudotnet.com) [![wgpu Rust Book](assets/wgpu01.png =x300)](https://drxudotnet.com)
+
+Please see details about these books at https://drxudotnet.com. 
 
 ## YouTube Video Links and Live Demos:
 
@@ -92,13 +99,13 @@ Here are some sample objects created using the WebGPU API, which I will discusse
 ![wellenkugel](assets/wellenkugel.png) 
 
 ### Snail Shell Created Using WebGPU:
-![snail-shell](assets/snail-shell.png)
+![snail-shell](assets/snail-shell.png =x300)
 
 ### Sievert-Enneper Surface Created Using WebGPU:
-![sievert-enneper](assets/sievert-enneper.png)
+![sievert-enneper](assets/sievert-enneper.png =x300)
 
 ### Breather Surface Created Using WebGPU:
-![breather](assets/breather.png)
+![breather](assets/breather.png =x300)
 
 ### 3D Sinc Surface created using WebGPU:
 ![sinc](assets/sinc.png) 
@@ -106,14 +113,6 @@ Here are some sample objects created using the WebGPU API, which I will discusse
 ### Multiple-Textures Created Using WebGPU:
 ![textures](assets/textures.png) 
 
-### Multiple Objects on a Scene created using WebGPU:
-![nultiple-objects](assets/multiple-objects.png) 
-
-### 3D Surface Plots for Complex Functions created using WebGPU:
-![complex-surface](assets/complex-surface.png) 
-
-<!--### Another Surface Plot for Complex Function:
-![complex-surface1](assets/complex-surface1.png) -->
 
 ## License
 
