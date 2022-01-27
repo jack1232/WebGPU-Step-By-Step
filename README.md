@@ -15,7 +15,7 @@ Most examples used in this video series are taken from my recently published boo
 
 I also published a new book on wgpu in Rust. wgpu is based on the WebGPU standard. It is a cross-platform, safe, Rust graphics API, and it runs natively on Vulkan, Metal, D3D12, D3D11, and OpenGLES; and on top of WebGPU on wasm.
 
-[![WebGPU Book](assets/webgpu01.png =x300)](https://drxudotnet.com) [![wgpu Rust Book](assets/wgpu01.png =x300)](https://drxudotnet.com)
+[![WebGPU Book](assets/webgpu01.png)](https://drxudotnet.com) [![wgpu Rust Book](assets/wgpu01.png)](https://drxudotnet.com)
 
 Please see details about these books at https://drxudotnet.com. 
 
@@ -99,13 +99,13 @@ Here are some sample objects created using the WebGPU API, which I will discusse
 ![wellenkugel](assets/wellenkugel.png) 
 
 ### Snail Shell Created Using WebGPU:
-![snail-shell](assets/snail-shell.png =x300)
+![snail-shell](assets/snail-shell.png)
 
 ### Sievert-Enneper Surface Created Using WebGPU:
-![sievert-enneper](assets/sievert-enneper.png =x300)
+![sievert-enneper](assets/sievert-enneper.png)
 
 ### Breather Surface Created Using WebGPU:
-![breather](assets/breather.png =x300)
+![breather](assets/breather.png)
 
 ### 3D Sinc Surface created using WebGPU:
 ![sinc](assets/sinc.png) 
