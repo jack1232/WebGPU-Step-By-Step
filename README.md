@@ -66,6 +66,7 @@ Please visit my YouTube channel: [Practical Programming with Dr. Xu](https://www
 39. Texture Mapping for 3D Klein Bottle: https://youtu.be/x1uJZRnLFgI
 40. Texture Mapping for 3D Wellenkugel Surface: https://youtu.be/HTN_IGN3XIM
 41. Multiple Texture Mapping: https://youtu.be/lz8g8lmB-fU
+42. 3D Surface Charts: https://youtu.be/HC6VnpKwu_8
 
 ### Live Demonstration
 [Live Demos](https://jack1232.github.io/webgpu00/) are produced by running the sample projects used in the WebGPU step-by-step video series.
