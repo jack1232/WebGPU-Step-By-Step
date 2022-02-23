@@ -21,7 +21,7 @@ Please see details about these books at https://drxudotnet.com.
 
 ## YouTube Video Links and Live Demos:
 
-Please visit my YouTube channel: [Practical Programming with Dr. Xu](https://www.youtube.com/channel/UCg14XfqXim0vpgabU3T7tRg)
+Please visit my YouTube channel: [Practical Programming with Dr. Xu](https://www.youtube.com/c/PracticalProgrammingWithDrXu)
 
 ### Video Series for WebGPU Step-by-Step:
 
@@ -67,7 +67,8 @@ Please visit my YouTube channel: [Practical Programming with Dr. Xu](https://www
 40. Texture Mapping for 3D Wellenkugel Surface: https://youtu.be/HTN_IGN3XIM
 41. Multiple Texture Mapping: https://youtu.be/lz8g8lmB-fU
 42. 3D Surface Charts: https://youtu.be/HC6VnpKwu_8
-43. 3D Sinc Surfae Charts: https://youtu.be/6a-ayeGKHSo
+43. 3D Sinc Surfae Chart: https://youtu.be/6a-ayeGKHSo
+44. 3D Peaks Surface Chart: https://youtu.be/NW0BxAA88J8
 
 ### Live Demonstration
 [Live Demos](https://jack1232.github.io/webgpu00/) are produced by running the sample projects used in the WebGPU step-by-step video series.
