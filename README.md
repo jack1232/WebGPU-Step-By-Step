@@ -70,6 +70,7 @@ Please visit my YouTube channel: [Practical Programming with Dr. Xu](https://www
 43. 3D Sinc Surfae Chart: https://youtu.be/6a-ayeGKHSo
 44. 3D Peaks Surface Chart: https://youtu.be/NW0BxAA88J8
 45. 3D Sphere Surface Chart: https://youtu.be/63GuFFX5154
+46. 3D Torus Surface Chart: https://youtu.be/_giImSpCULs
 
 ### Live Demonstration
 [Live Demos](https://jack1232.github.io/webgpu00/) are produced by running the sample projects used in the WebGPU step-by-step video series.
