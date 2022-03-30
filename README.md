@@ -72,6 +72,8 @@ Please visit my YouTube channel: [Practical Programming with Dr. Xu](https://www
 45. 3D Sphere Surface Chart: https://youtu.be/63GuFFX5154
 46. 3D Torus Surface Chart: https://youtu.be/_giImSpCULs
 47. 3D Klein Bottle Surface Chart: https://youtu.be/CslHSPqelNI
+48. 3D Wellenkugel Surface Chart: https://youtu.be/iVpY87AKOMI
+49. Create Two Cubes in a Single Scene: https://youtu.be/lLOQZravjFE
 
 ### Live Demonstration
 [Live Demos](https://jack1232.github.io/webgpu00/) are produced by running the sample projects used in the WebGPU step-by-step video series.
