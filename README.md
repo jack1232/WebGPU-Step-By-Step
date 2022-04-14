@@ -75,6 +75,7 @@ Please visit my YouTube channel: [Practical Programming with Dr. Xu](https://www
 48. 3D Wellenkugel Surface Chart: https://youtu.be/iVpY87AKOMI
 49. Create Two Cubes in a Single Scene: https://youtu.be/lLOQZravjFE
 50. Create multiple Cubes in a single Scene: https://youtu.be/b4QkRyzKPEU
+51. Create multiple Different Objects in a Scene: https://youtu.be/8pMWA5ydZwI
 
 ### Live Demonstration
 [Live Demos](https://jack1232.github.io/webgpu00/) are produced by running the sample projects used in the WebGPU step-by-step video series.
