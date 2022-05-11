@@ -78,7 +78,8 @@ Please visit my YouTube channel: [Practical Programming with Dr. Xu](https://www
 51. Create multiple Different Objects in a Scene: https://youtu.be/8pMWA5ydZwI
 52. Create multiple Objects using Different Pipelines: https://youtu.be/1p1Ba2wXOvw
 53. Create 3D Surface Charts using Multiple Pipelines: https://youtu.be/K_cqAQ1W6fI
-54. Create 3D SInc Charts using Multiple Pipelines: https://youtu.be/oPq5mg_r_rc
+54. Create 3D Sinc Chart using Multiple Pipelines: https://youtu.be/oPq5mg_r_rc
+55. Create 3D Peaks Chart using Multiple Pipelines: https://youtu.be/26xCvFRb8TM
 
 ### Live Demonstration
 [Live Demos](https://jack1232.github.io/webgpu00/) are produced by running the sample projects used in the WebGPU step-by-step video series.
