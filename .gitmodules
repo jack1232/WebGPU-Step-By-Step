@@ -163,3 +163,6 @@
 [submodule "webgpu55"]
 	path = webgpu55
 	url = https://github.com/jack1232/webgpu55
+[submodule "webgpu56"]
+	path = webgpu56
+	url = https://github.com/jack1232/webgpu56
