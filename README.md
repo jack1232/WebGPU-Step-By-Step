@@ -26,7 +26,7 @@ Please see details about these books at https://drxudotnet.com.
 
 ## YouTube Video Links and Live Demos:
 
-Please visit my YouTube channel: [Practical Programming with Dr. Xu](https://www.youtube.com/c/PracticalProgrammingWithDrXu)
+Please visit my YouTube channel: [Practical Programming with Dr. Xu](https://www.youtube.com/c/PracticalProgrammingWithDrXu) and view the [live demos](https://jack1232.github.io/webgpu00/)
 
 ### Video Series for WebGPU Step-by-Step:
 
