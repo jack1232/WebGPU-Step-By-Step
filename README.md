@@ -1,3 +1,5 @@
+$$\textcolor{red}{\text{The source code has just been updated to WebGPU version 0.1.21.}}$$
+
 # WebGPU Graphics Programming: Step-by-Step 
 
 WebGPU is the next-generation graphics API and future web standard for graphics and compute, aiming to provide modern 3D graphics and 
